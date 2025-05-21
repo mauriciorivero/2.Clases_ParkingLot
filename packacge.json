@@ -1,0 +1,14 @@
+{
+  "name": "sistema-parqueo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sistema de gestión de parqueo",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node --watch main.js"
+  },
+  "keywords": ["parqueo", "vehiculos", "javascript"],
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
